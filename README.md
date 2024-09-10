@@ -1,3 +1,3 @@
-**Hello! I'm Kali**
+**Hello! I'm Kali 🐸🌸**
 
-Hi there! My name is Kali 🐸🌸
+I'm a graduate student in the Ice Climate Ecosystem (ICE) Remote Sensing Lab at the University of Victoria 🇨🇦
