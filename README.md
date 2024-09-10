@@ -4,4 +4,4 @@
 
   I study ice shelves in Antarctica with satellites 🛰️
 
-  When I am not writing code, I am either rotting on my couch or fighting for my life in a cave. No in between
+  When I'm not writing code, I am rotting on my couch or fighting for my life in a cave. No in between
