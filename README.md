@@ -1,7 +1,7 @@
 **Hello! I'm Kali 😺**
 
-My field: ❄️ 🌧️ 🛰️ 
-  
-My hobbies: 📸 🎮 🥾 🏕️ 🤿
+  Sea creature 🐉 scientist 👩‍🔬 big fan of ice ❄️
 
-  Nintendo nerd, movie buff, sea creature, cave goblin, cat mom, orange juice enthusiast
+  I study ice shelves in Antarctica with satellites 🛰️
+
+  When I am not writing code, I am either rotting on my couch or fighting for my life in a cave. No in between
