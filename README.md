@@ -11,7 +11,7 @@
 ![Static Badge](https://img.shields.io/badge/ArcGIS-F0F0F0?style=for-the-badge&logo=arcgis&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/pandas-F0F0F0?style=for-the-badge&logo=pandas&logoColor=150458)
 ![Static Badge](https://img.shields.io/badge/geopandas-F0F0F0?style=for-the-badge&logo=geopandas&logoColor=139C5A)
-![Static Badge](https://img.shields.io/badge/linux-F0F0F0?style=for-the-badge&logo=linux&logoColor=black)
+![Static Badge](https://img.shields.io/badge/bash-F0F0F0?style=for-the-badge&logo=gnu%20bash&logoColor=293137)
 ![Static Badge](https://img.shields.io/badge/google%20earth%20engine-F0F0F0?style=for-the-badge&logo=google%20earth%20engine&logoColor=4285F4)
 
 
