@@ -1,9 +1,9 @@
-**Hello! I'm Kali 🐸🌸**
+**Hello! I'm Kali 🐸**
 
-I'm a graduate student in the Ice Climate Ecosystem (ICE) Remote Sensing Lab at the University of Victoria  
- 
- I study ice shelves in Antarctica with satellites and space lasers 👾
+I study polar science at the University of Victoria ☃️ I use satellites and space lasers 👾 to look at ice shelves in Antarctica!
 
   I am passionate about glaciology ❄️ climatology 🌧️ and remote sensing 🛰️
+
+  I am usually writing code, doing various outdoor activities, or playing video games with my cat 
 
   
