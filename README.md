@@ -5,7 +5,9 @@
  Graduate student at the [ICE Remote Sensing Lab](https://www.icelab.ca/) 🍁 SAR specialist at [SmartICE](https://smartice.org/)
  
   <img src="./nyan_satellite.gif" width="10%" height="10%"/>
+  
 ---
+
 📚 The tools I use most often are:
   
   ![Static Badge](https://img.shields.io/badge/Python-F0F0F0?style=for-the-badge&logo=python&logoColor=ffde57)
@@ -17,7 +19,9 @@
 ![Static Badge](https://img.shields.io/badge/javascript-F0F0F0?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/bash-F0F0F0?style=for-the-badge&logo=gnu%20bash&logoColor=293137)
 ![Static Badge](https://img.shields.io/badge/anaconda-F0F0F0?style=for-the-badge&logo=anaconda&logoColor=3BAF29)
+
 ---
+
 🔥 My stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kalimcdougall)](https://git.io/streak-stats)  
