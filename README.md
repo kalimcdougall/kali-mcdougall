@@ -1,4 +1,4 @@
-## Hello, I'm Kali <img src="./cat.gif" width="7%" height="7%"/>
+## Hello! I'm Kali <img src="./cat.gif" width="7%" height="7%"/>
 
   **✨ SAR enthusiast, big fan of ice ✨ I use 🛰️ to study ice shelves in Antarctica ❄️**
 
