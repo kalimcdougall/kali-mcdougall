@@ -16,7 +16,7 @@
 ![Static Badge](https://img.shields.io/badge/bash-F0F0F0?style=for-the-badge&logo=gnu%20bash&logoColor=293137)
 ![Static Badge](https://img.shields.io/badge/anaconda-F0F0F0?style=for-the-badge&logo=anaconda&logoColor=3BAF29)
 
-  📄 And you can find my CV [here](KaliMcDougall_CV.pdf).
+📄 And you can find my CV [here](KaliMcDougall_CV.pdf).
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimcdougall&layout=compact)  
   
