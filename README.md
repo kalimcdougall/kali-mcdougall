@@ -21,9 +21,6 @@
   <a href="https://x.com/ka_mcdougall/">
     <img src="https://img.shields.io/badge/X-F0F0F0?style=social&logo=X&logoColor=%23000000"/>
   </a>
-  <a href="https://orcid.org/0000-0002-4529-3092">
-    <img src="https://img.shields.io/badge/ORCiD-F0F0F0?style=social&logo=orcid&logoColor=%23A6CE39"/>
-  </a>
  <a href="https://www.researchgate.net/profile/Kali-Mcdougall/research">
     <img src="https://img.shields.io/badge/ResearchGate-F0F0F0?style=social&logo=researchgate&logoColor=%2300CCBB"/>
  </a>
