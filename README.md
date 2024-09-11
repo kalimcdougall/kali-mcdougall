@@ -2,7 +2,7 @@
 
   **✨ SAR enthusiast, big fan of ice ✨ I use 🛰️ to study ice shelves in Antarctica ❄️**
 
- Graduate student at the [ICE Remote Sensing Lab](https://www.icelab.ca/) 🍁 SAR specialist with [SmartICE](https://smartice.org/)
+ Graduate student at the [ICE Remote Sensing Lab](https://www.icelab.ca/) 🍁 SAR specialist at [SmartICE](https://smartice.org/)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimcdougall&layout=compact) 
 
