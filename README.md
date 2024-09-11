@@ -18,6 +18,7 @@
 
 
 [<img src="[https://youtu.be/_lnA8ADKNiQ/earth_as_art.jpg" width="50%">](https://youtu.be/_lnA8ADKNiQ)
+<video src="https://youtu.be/_lnA8ADKNiQ"></video>
 
 
 
