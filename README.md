@@ -4,6 +4,8 @@
 
  Graduate student at the [ICE Remote Sensing Lab](https://www.icelab.ca/) 🍁 SAR specialist with [SmartICE](https://smartice.org/)
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimcdougall&layout=compact)
+
 📚 The tools I use most often are:
   
   ![Static Badge](https://img.shields.io/badge/Python-F0F0F0?style=for-the-badge&logo=python&logoColor=ffde57)
