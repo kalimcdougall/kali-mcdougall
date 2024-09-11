@@ -27,6 +27,6 @@
  </a>
 </div>
 
-![Static Badge](https://img.shields.io/badge/ICESat%2-F0F0F0?style=for-the-badge&logo=icesat2&logoColor=3BAF29)
+![Static Badge](https://img.shields.io/badge/ICESat%202-F0F0F0?style=for-the-badge&logo=icesat2&logoColor=3BAF29)
 
 
