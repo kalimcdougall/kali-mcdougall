@@ -19,7 +19,7 @@
 
 My tech skills are:
   
-  [![My Skills](https://skillicons.dev/icons?i=py,bash,js,r,anaconda,linux,latex)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,bash,js,r,anaconda,linux,latex&theme=light)](https://skillicons.dev)
 
 📄 And you can find my CV [here](KaliMcDougall_CV.pdf).
   
