@@ -29,6 +29,4 @@
  </a>
 </div>
 
-<img src="./larsen_c_sar.gif" width="25%" height="25%"/>
-
 
