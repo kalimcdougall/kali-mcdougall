@@ -1,6 +1,6 @@
 **Hello! I'm Kali** <img src="./cat.gif" width="7%" height="7%"/>
 
-  I am a graduate student at the University of Victoria 🍁 I study ice shelves in Antarctica with satellites 🛰️
+  ✨ Satellite enthusiast, big fan of ice ✨ I study ice shelves in Antarctica with SAR at the University of Victoria 🍁🛰️
 
 📚 The programming tools I use most often are:
   
@@ -17,8 +17,7 @@
 ![Static Badge](https://img.shields.io/badge/google%20earth%20engine-F0F0F0?style=for-the-badge&logo=google%20earth%20engine&logoColor=%234285F4)
 
 
-
-<img src="./satellite.gif" width="20%" height="20%"/>
+<img src="./satellite.gif" width="35%" height="35%"/>
 
 
 
