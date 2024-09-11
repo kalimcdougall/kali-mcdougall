@@ -33,14 +33,4 @@
   
   📄 And you can find my CV [here](KaliMcDougall_CV.pdf).
 
-CONST DEREK = {
-  pronouns: "He" | "him",
-  backend: ["Ruby", "Nodejs", "Go"],
-  frontend: ["HTML", "Javascript", "ReactJs", "CSS"],
-  database: ["Postgresql", "mySQL", "Redis"],
-  "cloud-server": ["AWS", "Gcloud", "DigitalOcean", "Heroku"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing All-In-One Toolbox for Developers. It's Muerta Toolbox."
-}
-
-
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
