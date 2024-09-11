@@ -20,6 +20,7 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimcdougall&layout=compact)  
   
-  <img src="./nyan_satellite.gif" width="10%" height="10%"/>
+    
+    <img src="./nyan_satellite.gif" width="10%" height="10%"/>
 
 
