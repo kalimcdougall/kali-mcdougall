@@ -17,7 +17,7 @@
 ![Static Badge](https://img.shields.io/badge/google%20earth%20engine-F0F0F0?style=for-the-badge&logo=google%20earth%20engine&logoColor=%234285F4)
 
 
-<img src="./satellite.gif" width="35%" height="35%"/>
+<img src="./satellite.gif" width="50%" height="50%"/>
 
 
 
