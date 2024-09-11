@@ -12,12 +12,9 @@
   ![Static Badge](https://img.shields.io/badge/GDAL-F0F0F0?style=for-the-badge&logo=GDAL&logoColor=%235CAE58)
   ![Static Badge](https://img.shields.io/badge/pandas-F0F0F0?style=for-the-badge&logo=pandas&logoColor=150458)
   ![Static Badge](https://img.shields.io/badge/google%20earth%20engine-F0F0F0?style=for-the-badge&logo=google%20earth%20engine&logoColor=%234285F4)
-  ![Static Badge](https://img.shields.io/badge/latex-F0F0F0?style=for-the-badge&logo=latex&logoColor=%23008080)
+  ![Static Badge](https://img.shields.io/badge/linux-F0F0F0?style=for-the-badge&logo=linux&logoColor=%23FCC624)
   ![Static Badge](https://img.shields.io/badge/anaconda-F0F0F0?style=for-the-badge&logo=anaconda&logoColor=3BAF29)
-
-My tech skills are:
-  
-  [![My Skills](https://skillicons.dev/icons?i=py,bash,js,r,anaconda,linux,latex&theme=light)](https://skillicons.dev)
+  ![Static Badge](https://img.shields.io/badge/latex-F0F0F0?style=for-the-badge&logo=latex&logoColor=%23008080)
 
 📄 And you can find my CV [here](KaliMcDougall_CV.pdf).
 
