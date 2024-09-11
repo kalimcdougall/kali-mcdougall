@@ -1,4 +1,4 @@
-**Hello! I'm Kali 😺** <img src="./gif.gif" width="20%" height="20%"/>
+**Hello! I'm Kali 😺** <img src="./gif.gif" width="10%" height="10%"/>
 
   Sea creature 🐉 scientist 👩‍🔬 big fan of ice ❄️
 
