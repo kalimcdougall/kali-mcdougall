@@ -33,4 +33,4 @@
   
   📄 And you can find my CV [here](KaliMcDougall_CV.pdf).
 
-![Visitor Count](https : //profile-counter.glitch.me/{kalimcdougall}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{kalimcdougall}/count.svg)
