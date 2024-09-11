@@ -23,7 +23,7 @@ My tech skills are:
   [![My Skills](https://skillicons.dev/icons?i=py,bash,js,r,anaconda,linux,latex&theme=light)](https://skillicons.dev)
 
 📄 And you can find my CV [here](KaliMcDougall_CV.pdf).
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimcdougall&layout=compact)  
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimcdougall&layout=compact)
   
   <img src="./space_cat.gif" width="9%" height="9%"/><img src="./flags.gif" width="8%" height="8%"/> <img src="./nyan_satellite.gif" width="11%" height="11%"/>
