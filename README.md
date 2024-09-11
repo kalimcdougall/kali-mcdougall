@@ -4,7 +4,7 @@
 
  Graduate student at the [ICE Remote Sensing Lab](https://www.icelab.ca/) 🍁 SAR specialist at [SmartICE](https://smartice.org/)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimcdougall&layout=compact) [![GitHub Streak](https://streak-stats.demolab.com?user=kalimcdougall&card_width=320&card_height=100)](https://git.io/streak-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimcdougall&layout=compact) [![GitHub Streak](https://streak-stats.demolab.com?user=kalimcdougall&card_width=320&card_height=90)](https://git.io/streak-stats)
   <img src="./nyan_satellite.gif" width="10%" height="10%"/>
 
 📚 The tools I use most often are:
