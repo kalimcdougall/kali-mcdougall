@@ -1,4 +1,4 @@
-**Hello! I'm Kali** <img src="./gif.gif" width="7%" height="7%"/>
+**Hello! I'm Kali** <img src="./cat.gif" width="7%" height="7%"/>
 
   I am a graduate student at the University of Victoria 🍁 I study ice shelves in Antarctica with satellites 🛰️
 
@@ -18,7 +18,7 @@
 
 
 
-
+<img src="./satellite.gif" width="20%" height="20%"/>
 
 
 
