@@ -2,7 +2,7 @@
 
   **✨ SAR enthusiast, big fan of ice ✨ I use 🛰️ to study ice shelves in Antarctica ❄️**
 
- Graduate student at the [University of Victoria](https://www.uvic.ca/) 🍁 SAR specialist with [SmartICE](https://smartice.org/)
+ Graduate student at the [ICE Remote Sensing Lab](https://www.icelab.ca/) 🍁 SAR specialist with [SmartICE](https://smartice.org/)
 
 📚 The tools I use most often are:
   
