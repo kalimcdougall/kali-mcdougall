@@ -1,4 +1,4 @@
-**Hello! I'm Kali 😺**
+**Hello! I'm Kali 😺** ![me](https://github.com/kalimcdougall/kalimcdougall/blob/main/gif.gif?raw=true)
 
   Sea creature 🐉 scientist 👩‍🔬 big fan of ice ❄️
 
