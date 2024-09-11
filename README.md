@@ -3,8 +3,7 @@
   **✨ SAR enthusiast, big fan of ice ✨ I use 🛰️ to study ice shelves in Antarctica ❄️**
 
  Graduate student at the [ICE Remote Sensing Lab](https://www.icelab.ca/) 🍁 SAR specialist at [SmartICE](https://smartice.org/)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimcdougall&layout=compact) [![GitHub Streak](https://streak-stats.demolab.com?user=kalimcdougall)](https://git.io/streak-stats)
+ 
   <img src="./nyan_satellite.gif" width="10%" height="10%"/>
 
 📚 The tools I use most often are:
@@ -19,18 +18,11 @@
 ![Static Badge](https://img.shields.io/badge/bash-F0F0F0?style=for-the-badge&logo=gnu%20bash&logoColor=293137)
 ![Static Badge](https://img.shields.io/badge/anaconda-F0F0F0?style=for-the-badge&logo=anaconda&logoColor=3BAF29)
 
-🗣️ You can find me on:
-<div id="badges">
-   <a href="https://x.com/ka_mcdougall/">
-    <img src="https://img.shields.io/badge/X-F0F0F0?style=social&logo=X&logoColor=%23000000"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kali-mcdougall/">
-    <img src="https://img.shields.io/badge/LinkedIn-F0F0F0?style=social&logo=linkedin&logoColor=%230A66C2"/>
-  </a>
- <a href="https://www.researchgate.net/profile/Kali-Mcdougall/research">
-    <img src="https://img.shields.io/badge/ResearchGate-F0F0F0?style=social&logo=researchgate&logoColor=%2300CCBB"/>
- </a>
-</div>
+🔥 My stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kalimcdougall)](https://git.io/streak-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimcdougall&layout=compact) 
+
   
   📄 And you can find my CV [here](KaliMcDougall_CV.pdf).
 
