@@ -17,6 +17,10 @@
   ![Static Badge](https://img.shields.io/badge/bash-F0F0F0?style=for-the-badge&logo=gnu%20bash&logoColor=293137)
   ![Static Badge](https://img.shields.io/badge/anaconda-F0F0F0?style=for-the-badge&logo=anaconda&logoColor=3BAF29)
 
+My tech skills are:
+  
+  [![My Skills](https://skillicons.dev/icons?i=py,bash,js,r,anaconda,linux,latex)](https://skillicons.dev)
+
 📄 And you can find my CV [here](KaliMcDougall_CV.pdf).
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimcdougall&layout=compact)  
