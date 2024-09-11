@@ -16,6 +16,7 @@
   ![Static Badge](https://img.shields.io/badge/javascript-F0F0F0?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Static Badge](https://img.shields.io/badge/bash-F0F0F0?style=for-the-badge&logo=gnu%20bash&logoColor=293137)
   ![Static Badge](https://img.shields.io/badge/anaconda-F0F0F0?style=for-the-badge&logo=anaconda&logoColor=3BAF29)
+  ![Static Badge](https://img.shields.io/badge/markdown-F0F0F0?style=for-the-badge&logo=markdown&logoColor=%23000000)
 
 My tech skills are:
   
