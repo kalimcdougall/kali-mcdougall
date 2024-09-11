@@ -17,7 +17,6 @@
 ![Static Badge](https://img.shields.io/badge/google%20earth%20engine-F0F0F0?style=for-the-badge&logo=google%20earth%20engine&logoColor=%234285F4)
 
 
-[<img src="./earth_as_art.jpg" width="50%">](https://youtu.be/_lnA8ADKNiQ "Now in Android: 55")
-
+<img src="./larsen_c_sar.gif" width="25%" height="25%"/>
 
 
