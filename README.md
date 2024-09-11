@@ -31,5 +31,7 @@
  </a>
 </div>
 
+📄 And you can find my CV [here](Kali_McDougall_CV.pdf).
+
 
 
