@@ -1,6 +1,6 @@
 ## Hello! I'm Kali <img src="./cat.gif" width="7%" height="7%"/>
 
-  ** SAR enthusiast 🛰️ big fan of ice ❄️ I use satellites to study ice shelves in Antarctica **
+  **SAR enthusiast 🛰️ big fan of ice ❄️ I use satellites to study ice shelves in Antarctica**
 
  Graduate student at the [ICE Remote Sensing Lab](https://www.icelab.ca/) 🍁 SAR specialist at [SmartICE](https://smartice.org/)
  
