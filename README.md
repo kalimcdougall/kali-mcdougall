@@ -16,7 +16,8 @@
 ![Static Badge](https://img.shields.io/badge/arcgis-F0F0F0?style=for-the-badge&logo=arcgis&logoColor=%232C7AC3)
 ![Static Badge](https://img.shields.io/badge/google%20earth%20engine-F0F0F0?style=for-the-badge&logo=google%20earth%20engine&logoColor=%234285F4)
 
-<video src='https://youtu.be/_lnA8ADKNiQ' width=180/>
+
+[<img src="./earth_as_art.jpg" width="50%">](https://youtu.be/_lnA8ADKNiQ "Now in Android: 55")
 
 
 
