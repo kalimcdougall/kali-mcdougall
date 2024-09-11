@@ -2,9 +2,7 @@
 
   Sea creature 🐉 scientist 👩‍🔬 big fan of ice ❄️
 
-  Graduate student at the University of Victoria ☃️ I study ice shelves in Antarctica with satellites 🛰️
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimcdougall&theme=tokyonight)
+  I am a graduate student at the University of Victoria 🍁 I study ice shelves in Antarctica with satellites 🛰️
 
 ![Static Badge](https://img.shields.io/badge/Python-F0F0F0?style=for-the-badge&logo=python&logoColor=ffde57)
 ![Static Badge](https://img.shields.io/badge/pandas-F0F0F0?style=for-the-badge&logo=pandas&logoColor=150458)
