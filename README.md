@@ -12,9 +12,9 @@
 ![Static Badge](https://img.shields.io/badge/bash-F0F0F0?style=for-the-badge&logo=gnu%20bash&logoColor=293137)
 ![Static Badge](https://img.shields.io/badge/anaconda-F0F0F0?style=for-the-badge&logo=anaconda&logoColor=3BAF29)
 
-  ![Static Badge](https://img.shields.io/badge/QGIS-F0F0F0?style=for-the-badge&logo=qgis&logoColor=green)
-![Static Badge](https://img.shields.io/badge/ArcGIS-F0F0F0?style=for-the-badge&logo=arcgis&logoColor=blue)
-![Static Badge](https://img.shields.io/badge/google%20earth%20engine-F0F0F0?style=for-the-badge&logo=google%20earth%20engine&logoColor=4285F4)
+  ![Static Badge](https://img.shields.io/badge/qgis-F0F0F0?style=for-the-badge&logo=qgis&logoColor=3BAF29)
+![Static Badge](https://img.shields.io/badge/arcgis-F0F0F0?style=for-the-badge&logo=arcgis&logoColor=%232C7AC3)
+![Static Badge](https://img.shields.io/badge/google%20earth%20engine-F0F0F0?style=for-the-badge&logo=google%20earth%20engine&logoColor=%234285F4)
 
 
 
