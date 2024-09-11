@@ -33,4 +33,4 @@
   
   📄 And you can find my CV [here](KaliMcDougall_CV.pdf).
 
-![Visitor Count](https://profile-counter.glitch.me/{kalimcdougall}/count.svg)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ka_mcdougall)](https://github.com/gazf/github-readme-twitter)
