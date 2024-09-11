@@ -33,4 +33,4 @@
   
   📄 And you can find my CV [here](KaliMcDougall_CV.pdf).
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ka_mcdougall)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ka_mcdougall)](https://github.com/kalimcdougall/github-readme-twitter)
