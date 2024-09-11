@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=673CB5&width=435&lines=Hi+I'm+Kali!)](https://git.io/typing-svg) <img src="./cat.gif" width="7%" height="7%"/>
+## Hello, I'm Kali <img src="./cat.gif" width="7%" height="7%"/>
 
   **✨ SAR enthusiast, big fan of ice ✨ I use 🛰️ to study ice shelves in Antarctica ❄️**
 
