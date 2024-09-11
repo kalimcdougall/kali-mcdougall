@@ -3,8 +3,6 @@
  🛰️ Satellite nerd in the [ICE Remote Sensing Lab](https://www.icelab.ca/) and at [SmartICE](https://smartice.org/)
    
    ❄️ I use SAR to study ice shelves in Antarctica
- 
-  <img src="./nyan_satellite.gif" width="10%" height="10%"/>
   
 📚 The tools I use most often are:
   
@@ -18,13 +16,10 @@
 ![Static Badge](https://img.shields.io/badge/bash-F0F0F0?style=for-the-badge&logo=gnu%20bash&logoColor=293137)
 ![Static Badge](https://img.shields.io/badge/anaconda-F0F0F0?style=for-the-badge&logo=anaconda&logoColor=3BAF29)
 
-🔥 My stats:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kalimcdougall)](https://git.io/streak-stats)  
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimcdougall&layout=compact) 
-
-  
   📄 And you can find my CV [here](KaliMcDougall_CV.pdf).
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimcdougall&layout=compact)  
+
+      <img src="./nyan_satellite.gif" width="10%" height="10%"/>
 
 
