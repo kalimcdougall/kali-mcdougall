@@ -23,5 +23,3 @@
   <img src="./nyan_satellite.gif" width="10%" height="10%"/><img src="./space_cat.gif" width="9%" height="9%"/><img src="./flags.gif" width="8%" height="8%"/>
   
   <img src="./antarctica-penguin-race.gif" width="10%" height="10%"/>
-
-
