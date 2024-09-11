@@ -1,7 +1,6 @@
 ## Hello! I'm Kali <img src="./cat.gif" width="7%" height="7%"/>
 
-     
-     🛰️ Satellite nerd in the [ICE Remote Sensing Lab](https://www.icelab.ca/) and at [SmartICE](https://smartice.org/)
+🛰️ Satellite nerd in the [ICE Remote Sensing Lab](https://www.icelab.ca/) and at [SmartICE](https://smartice.org/)
    
    ❄️ I use SAR to study ice shelves in Antarctica
   
@@ -21,7 +20,6 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimcdougall&layout=compact)  
   
-    
     <img src="./nyan_satellite.gif" width="10%" height="10%"/>
 
 
