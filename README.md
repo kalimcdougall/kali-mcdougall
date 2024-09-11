@@ -30,8 +30,8 @@
     <img src="https://img.shields.io/badge/ResearchGate-F0F0F0?style=social&logo=researchgate&logoColor=%2300CCBB"/>
  </a>
 </div>
-
-📄 And you can find my CV [here](Kali_McDougall_CV.pdf).
+  
+  📄 And you can find my CV [here](KaliMcDougall_CV.pdf).
 
 
 
